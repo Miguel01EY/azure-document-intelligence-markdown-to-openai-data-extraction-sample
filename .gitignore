@@ -399,5 +399,8 @@ FodyWeavers.xsd
 
 # Local
 *.env
+*.venv
 *.jpg
 *Outputs.json
+docs
+output.txt
