@@ -403,4 +403,6 @@ FodyWeavers.xsd
 *.jpg
 *Outputs.json
 docs
+txt_comp
+txt_simp
 output.txt
